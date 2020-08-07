@@ -1,4 +1,4 @@
-# llSPS-INT-3495-Green-house-monitoring-control-system
+Green-house-monitoring-control-system
 
 Green house monitoring &amp; control system.
 
